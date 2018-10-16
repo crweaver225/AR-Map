@@ -16,3 +16,6 @@ https://youtu.be/FIU2LH0VpjQ
 ![PinController. Location](https://github.com/crweaver225/AR-Map/blob/master/screenshots/p1.png)
 ![PinController. Location](https://github.com/crweaver225/AR-Map/blob/master/screenshots/p2.png)
 ![PinController. Location](https://github.com/crweaver225/AR-Map/blob/master/screenshots/p3.png)
+![PinController. Location](https://github.com/crweaver225/AR-Map/blob/master/screenshots/p4.png)
+![PinController. Location](https://github.com/crweaver225/AR-Map/blob/master/screenshots/p5.png)
+![PinController. Location](https://github.com/crweaver225/AR-Map/blob/master/screenshots/p6.png)
