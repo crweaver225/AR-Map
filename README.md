@@ -9,13 +9,17 @@ ARKit implementation that pins a user's location to maps and globes. One implime
 AR Map Video Demo
 https://www.youtube.com/watch?v=9qS1esEsrjY&feature=youtu.be
 
-AR Globe Video Demo
-https://youtu.be/FIU2LH0VpjQ
-
+AR Map Images 
 
 ![PinController. Location](https://github.com/crweaver225/AR-Map/blob/master/screenshots/p1.png)
 ![PinController. Location](https://github.com/crweaver225/AR-Map/blob/master/screenshots/p2.png)
 ![PinController. Location](https://github.com/crweaver225/AR-Map/blob/master/screenshots/p3.png)
+
+AR Globe Video Demo
+https://youtu.be/FIU2LH0VpjQ
+
+AR Globe Images
+
 ![PinController. Location](https://github.com/crweaver225/AR-Map/blob/master/screenshots/p4.png)
 ![PinController. Location](https://github.com/crweaver225/AR-Map/blob/master/screenshots/p5.png)
 ![PinController. Location](https://github.com/crweaver225/AR-Map/blob/master/screenshots/p6.png)
